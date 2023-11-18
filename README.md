@@ -1,1 +1,2 @@
 # Natural-Language-Processing-Specialization-DeepLearning.AI-Coursera
+Completed four Natural Language Processing courses on Coursera and obtained certifications, including "Natural Language Processing with Classification and Vector Spaces," "Natural Language Processing with Probabilistic Models," "Natural Language Processing with Sequence Models," and "Natural Language Processing with Attention Models."
